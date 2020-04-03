@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "48469677682",
+    "firebase_url": "https://finalfood2030.firebaseio.com",
+    "project_id": "finalfood2030",
+    "storage_bucket": "finalfood2030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48469677682:android:902cd8d6f14587c43b94eb",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobileapp.finalfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48469677682-pdsg3echge354vdqdan77l3tk8uu6j5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.ac.kku.cis.mobileapp.finalfood",
+            "certificate_hash": "c88a3fe4a9c2f45a39c36e2fb551e73045696622"
+          }
+        },
+        {
+          "client_id": "48469677682-q66jv9cvdine7daq5vu1jr8o95ajia6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtp-eJnBgqjG2e7tYbzShsL0EUnzF8JZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48469677682-q66jv9cvdine7daq5vu1jr8o95ajia6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
